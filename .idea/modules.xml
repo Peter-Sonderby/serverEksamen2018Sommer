@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ServerKammode.iml" filepath="$PROJECT_DIR$/ServerKammode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/main/simple-service-webapp.iml" filepath="$PROJECT_DIR$/src/main/simple-service-webapp.iml" />
     </modules>
   </component>
 </project>
